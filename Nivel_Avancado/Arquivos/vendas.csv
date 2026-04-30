@@ -1,0 +1,11 @@
+id_venda,data,produto,quantidade,preco_unitario,categoria
+1,2023-10-01,Notebook,1,3500.00,Eletrônicos
+2,2023-10-01,Mouse Gamer,2,150.00,Periféricos
+3,2023-10-02,Teclado Mecânico,1,400.00,Periféricos
+4,2023-10-02,Monitor 24pol,2,900.00,Eletrônicos
+5,2023-10-03,Mouse Gamer,5,150.00,Periféricos
+6,2023-10-03,Notebook,1,3500.00,Eletrônicos
+7,2023-10-04,Cadeira Office,1,1200.00,Móveis
+8,2023-10-04,Mouse Gamer,1,150.00,Periféricos
+9,2023-10-05,Teclado Mecânico,3,400.00,Periféricos
+10,2023-10-05,Monitor 24pol,1,900.00,Eletrônicos

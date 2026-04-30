@@ -1,4 +1,4 @@
-vogais = ['a','e','i','o','u']
+vogais = ['a','e','i','o','u','A','E','I','O','U']
 
 string = input('Digite a frase: ')
 contador = 0

@@ -1,0 +1,3 @@
+Esse é o arquivo de texto que deve ser lido.
+Ele tem 3 linhas.
+Fim do arquivo.
